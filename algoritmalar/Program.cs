@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/*
+ Verilen bir karakter dizisini (string) tersine çeviren algoritma
+ */
