@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             /*
+              Kullanıcının şifresi, şifre değişimi için belirlenen bir soru ve cevabı olmalı. Kullanıcı sorunun cevabını doğru bildiğinde şifre değişimine izin verilmeli. Şifre değişimi işleminden sonra yeni şifre ekrana basılmalı.(Program kullanıcı soruyu doğru bilene kadar sormaya devam etmeli.) 
+             
              * 1-Başla
              2-Önceden belirlenmiş bir güvenlik sorusu ve cevabı tanımla.
              3-yeni şifre değişkenini tanımla 
