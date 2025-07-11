@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tekSayılarıAtlayıpÇiftS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yeniSifreOlusturmaAlgoritmasi", "yeniSifreOlusturmaAlgoritmasi\yeniSifreOlusturmaAlgoritmasi.csproj", "{815E5210-EFCB-45D9-8347-C3CBDE1DED7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ikizAsalSayiBulmaAlgoritmasi", "ikizAsalSayiBulmaAlgoritmasi\ikizAsalSayiBulmaAlgoritmasi.csproj", "{50421916-A36C-4BAA-8116-20CF856531A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{815E5210-EFCB-45D9-8347-C3CBDE1DED7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{815E5210-EFCB-45D9-8347-C3CBDE1DED7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{815E5210-EFCB-45D9-8347-C3CBDE1DED7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50421916-A36C-4BAA-8116-20CF856531A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50421916-A36C-4BAA-8116-20CF856531A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50421916-A36C-4BAA-8116-20CF856531A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50421916-A36C-4BAA-8116-20CF856531A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
