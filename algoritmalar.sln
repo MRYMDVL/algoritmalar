@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listeninMedyaniniBulma", "l
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fonksiyonlar", "fonksiyonlar\fonksiyonlar.csproj", "{FE885672-4B3C-4CFD-8A37-D85F5204E204}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "selamlaFonksiyonu", "selamlaFonksiyonu\selamlaFonksiyonu.csproj", "{936CEA14-A54B-4782-AAF2-8EEA5BCD9430}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{FE885672-4B3C-4CFD-8A37-D85F5204E204}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE885672-4B3C-4CFD-8A37-D85F5204E204}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE885672-4B3C-4CFD-8A37-D85F5204E204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{936CEA14-A54B-4782-AAF2-8EEA5BCD9430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936CEA14-A54B-4782-AAF2-8EEA5BCD9430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936CEA14-A54B-4782-AAF2-8EEA5BCD9430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936CEA14-A54B-4782-AAF2-8EEA5BCD9430}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
