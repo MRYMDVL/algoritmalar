@@ -3,51 +3,53 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algoritmalar", "algoritmalar\algoritmalar.csproj", "{59F43D63-3BEF-4A9B-9061-E64AFB2E715A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "algoritmalar", "algoritmalar\algoritmalar.csproj", "{59F43D63-3BEF-4A9B-9061-E64AFB2E715A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enUzunKelimeyiBulmaAlgoritmasi", "enUzunKelimeyiBulmaAlgoritmasi\enUzunKelimeyiBulmaAlgoritmasi.csproj", "{BA5B1A4D-8CFB-4652-833F-D85F2EF3B3D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "enUzunKelimeyiBulmaAlgoritmasi", "enUzunKelimeyiBulmaAlgoritmasi\enUzunKelimeyiBulmaAlgoritmasi.csproj", "{BA5B1A4D-8CFB-4652-833F-D85F2EF3B3D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindromAlgoritmasi", "palindromAlgoritmasi\palindromAlgoritmasi.csproj", "{54D0BD2E-5920-40D3-AD0D-A8AD354DF220}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "palindromAlgoritmasi", "palindromAlgoritmasi\palindromAlgoritmasi.csproj", "{54D0BD2E-5920-40D3-AD0D-A8AD354DF220}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anagramAlgoritmasıı", "anagramAlgoritmasıı\anagramAlgoritmasıı.csproj", "{A111B13F-91D9-4C40-81FE-9554F7C7CEB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "anagramAlgoritmasıı", "anagramAlgoritmasıı\anagramAlgoritmasıı.csproj", "{A111B13F-91D9-4C40-81FE-9554F7C7CEB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gucluSayiBulmaAlgoritmasi", "gucluSayiBulmaAlgoritmasi\gucluSayiBulmaAlgoritmasi.csproj", "{4E5D6302-5BC4-48BE-9697-E01DBF62320C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gucluSayiBulmaAlgoritmasi", "gucluSayiBulmaAlgoritmasi\gucluSayiBulmaAlgoritmasi.csproj", "{4E5D6302-5BC4-48BE-9697-E01DBF62320C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orijinaslSayiBulmaAlgoritmasi", "orijinaslSayiBulmaAlgoritmasi\orijinaslSayiBulmaAlgoritmasi.csproj", "{F6709A39-440A-4E81-8EA4-A85033EE51C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "orijinaslSayiBulmaAlgoritmasi", "orijinaslSayiBulmaAlgoritmasi\orijinaslSayiBulmaAlgoritmasi.csproj", "{F6709A39-440A-4E81-8EA4-A85033EE51C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enKucukElemaninYeriniBulanAlgoritma", "enKucukElemaninYeriniBulanAlgoritma\enKucukElemaninYeriniBulanAlgoritma.csproj", "{294FE072-4FDD-4927-801B-AAE5F96DA0D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "enKucukElemaninYeriniBulanAlgoritma", "enKucukElemaninYeriniBulanAlgoritma\enKucukElemaninYeriniBulanAlgoritma.csproj", "{294FE072-4FDD-4927-801B-AAE5F96DA0D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maxMinYerDegistimeAlgoritmasi", "maxMinYerDegistimeAlgoritmasi\maxMinYerDegistimeAlgoritmasi.csproj", "{D6BD1CEF-2CF6-4DB4-8A87-8EB506B84EFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "maxMinYerDegistimeAlgoritmasi", "maxMinYerDegistimeAlgoritmasi\maxMinYerDegistimeAlgoritmasi.csproj", "{D6BD1CEF-2CF6-4DB4-8A87-8EB506B84EFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarftenSonrasiniYazdirmamaAlgoritmasi", "HarftenSonrasiniYazdirmamaAlgoritmasi\HarftenSonrasiniYazdirmamaAlgoritmasi.csproj", "{B9743CD0-4C41-4D42-AEDC-3A4485A4D1A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HarftenSonrasiniYazdirmamaAlgoritmasi", "HarftenSonrasiniYazdirmamaAlgoritmasi\HarftenSonrasiniYazdirmamaAlgoritmasi.csproj", "{B9743CD0-4C41-4D42-AEDC-3A4485A4D1A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sifreAlgoritmasi", "sifreAlgoritmasi\sifreAlgoritmasi.csproj", "{EABC3942-C3BB-4F09-9A72-18353BF82302}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sifreAlgoritmasi", "sifreAlgoritmasi\sifreAlgoritmasi.csproj", "{EABC3942-C3BB-4F09-9A72-18353BF82302}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "indirimliFiyatBulmaAlgoritmasi", "indirimliFiyatBulmaAlgoritmasi\indirimliFiyatBulmaAlgoritmasi.csproj", "{A37A25F8-4A41-4851-863C-55D0C9617A64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "indirimliFiyatBulmaAlgoritmasi", "indirimliFiyatBulmaAlgoritmasi\indirimliFiyatBulmaAlgoritmasi.csproj", "{A37A25F8-4A41-4851-863C-55D0C9617A64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tekSayılarıAtlayıpÇiftSayılarıYazdıranAlgoritma", "tekSayılarıAtlayıpÇiftSayılarıYazdıranAlgoritma\tekSayılarıAtlayıpÇiftSayılarıYazdıranAlgoritma.csproj", "{DE4C955F-BB87-4FD6-903F-1C88E26B96DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tekSayılarıAtlayıpÇiftSayılarıYazdıranAlgoritma", "tekSayılarıAtlayıpÇiftSayılarıYazdıranAlgoritma\tekSayılarıAtlayıpÇiftSayılarıYazdıranAlgoritma.csproj", "{DE4C955F-BB87-4FD6-903F-1C88E26B96DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yeniSifreOlusturmaAlgoritmasi", "yeniSifreOlusturmaAlgoritmasi\yeniSifreOlusturmaAlgoritmasi.csproj", "{815E5210-EFCB-45D9-8347-C3CBDE1DED7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "yeniSifreOlusturmaAlgoritmasi", "yeniSifreOlusturmaAlgoritmasi\yeniSifreOlusturmaAlgoritmasi.csproj", "{815E5210-EFCB-45D9-8347-C3CBDE1DED7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ikizAsalSayiBulmaAlgoritmasi", "ikizAsalSayiBulmaAlgoritmasi\ikizAsalSayiBulmaAlgoritmasi.csproj", "{50421916-A36C-4BAA-8116-20CF856531A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ikizAsalSayiBulmaAlgoritmasi", "ikizAsalSayiBulmaAlgoritmasi\ikizAsalSayiBulmaAlgoritmasi.csproj", "{50421916-A36C-4BAA-8116-20CF856531A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ikiSayininEbobu", "ikiSayininEbobu\ikiSayininEbobu.csproj", "{CC6AAB06-54FA-4910-A877-8DAFD76CAFA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ikiSayininEbobu", "ikiSayininEbobu\ikiSayininEbobu.csproj", "{CC6AAB06-54FA-4910-A877-8DAFD76CAFA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacciAlgoritmasi", "fibonacciAlgoritmasi\fibonacciAlgoritmasi.csproj", "{857C76CE-52D4-4CE2-AE68-D11BFDE46DDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fibonacciAlgoritmasi", "fibonacciAlgoritmasi\fibonacciAlgoritmasi.csproj", "{857C76CE-52D4-4CE2-AE68-D11BFDE46DDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listeninMedyaniniBulma", "listeninMedyaniniBulma\listeninMedyaniniBulma.csproj", "{92D44DA8-BAD3-40F3-81A4-D73247F53B61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "listeninMedyaniniBulma", "listeninMedyaniniBulma\listeninMedyaniniBulma.csproj", "{92D44DA8-BAD3-40F3-81A4-D73247F53B61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fonksiyonlar", "fonksiyonlar\fonksiyonlar.csproj", "{FE885672-4B3C-4CFD-8A37-D85F5204E204}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fonksiyonlar", "fonksiyonlar\fonksiyonlar.csproj", "{FE885672-4B3C-4CFD-8A37-D85F5204E204}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "selamlaFonksiyonu", "selamlaFonksiyonu\selamlaFonksiyonu.csproj", "{936CEA14-A54B-4782-AAF2-8EEA5BCD9430}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "selamlaFonksiyonu", "selamlaFonksiyonu\selamlaFonksiyonu.csproj", "{936CEA14-A54B-4782-AAF2-8EEA5BCD9430}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ikiTarihArasındaKacGünVarFonksiyonu", "ikiTarihArasındaKacGünVarFonksiyonu\ikiTarihArasındaKacGünVarFonksiyonu.csproj", "{94859C46-EB61-4EC2-B6CA-ADB756CDC4AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ikiTarihArasındaKacGünVarFonksiyonu", "ikiTarihArasındaKacGünVarFonksiyonu\ikiTarihArasındaKacGünVarFonksiyonu.csproj", "{94859C46-EB61-4EC2-B6CA-ADB756CDC4AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kargoUcretiHesaplamaFonksiyonu", "kargoUcretiHesaplamaFonksiyonu\kargoUcretiHesaplamaFonksiyonu.csproj", "{22DC253D-8637-41B0-BBB5-794FA93679ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kargoUcretiHesaplamaFonksiyonu", "kargoUcretiHesaplamaFonksiyonu\kargoUcretiHesaplamaFonksiyonu.csproj", "{22DC253D-8637-41B0-BBB5-794FA93679ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dijitalsaatFonksiyonu", "dijitalsaatFonksiyonu\dijitalsaatFonksiyonu.csproj", "{815C87F1-0D68-4AAA-97E2-00F2186E4D56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dijitalsaatFonksiyonu", "dijitalsaatFonksiyonu\dijitalsaatFonksiyonu.csproj", "{815C87F1-0D68-4AAA-97E2-00F2186E4D56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kullaniciAdiKontrolFonksiyonu", "kullaniciAdiKontrolFonksiyonu\kullaniciAdiKontrolFonksiyonu.csproj", "{152D2C00-D9CB-4F2D-BB26-603248D9E2F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kullaniciAdiKontrolFonksiyonu", "kullaniciAdiKontrolFonksiyonu\kullaniciAdiKontrolFonksiyonu.csproj", "{152D2C00-D9CB-4F2D-BB26-603248D9E2F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringCümleFonksiyonu", "stringCümleFonksiyonu\stringCümleFonksiyonu.csproj", "{356FDE43-EDA3-4573-8C0B-4255500C7506}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{152D2C00-D9CB-4F2D-BB26-603248D9E2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{152D2C00-D9CB-4F2D-BB26-603248D9E2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{152D2C00-D9CB-4F2D-BB26-603248D9E2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{356FDE43-EDA3-4573-8C0B-4255500C7506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356FDE43-EDA3-4573-8C0B-4255500C7506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356FDE43-EDA3-4573-8C0B-4255500C7506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356FDE43-EDA3-4573-8C0B-4255500C7506}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
