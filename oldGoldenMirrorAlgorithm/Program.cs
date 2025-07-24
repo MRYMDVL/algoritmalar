@@ -37,7 +37,8 @@
             4-)Toplam altın sayısını al
             5-)Altın numaralarını kullanıcıdan al
             6-)Bitir
-             */
+            */
+
             Console.WriteLine("Yigin sayisini girin lütfen:");
             int yiginSayisi = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Yiginlarda ki parça sayisini girin lütfen:");
@@ -58,10 +59,10 @@
             }
             int[] yiginToplami = new int[yiginSayisi];
             yiginToplami[0] = parcaSayisi[0];
-            // 3 7 2 9 4 6
+            // 3-7-2-9-4-6
             /*
              * Altınların bulunduğu sıra 1 11 28 31
-             [(1) 2 3] [4 5 6 7 8 9 10] [(11) 12] [13 14 15 ... 21 ] [22 23 24 25] [26 27 (28) 29 30 (31)]
+             [(1) 2 3]- [4 5 6 7 8 9 10]-[(11) 12]- [13 14 15 ... 21 ]- [22 23 24 25]- [26 27 (28) 29 30 (31)]
              */
             for (int i = 1; i < yiginSayisi; i++)
             {
@@ -73,6 +74,7 @@
                 {
                     if (altin <= yiginToplami[i])
                     {
+                        Console.WriteLine("Altınların bulunduğu yığınlar:");
                         Console.Write(i + 1 + " ");
                         break;
                     }
