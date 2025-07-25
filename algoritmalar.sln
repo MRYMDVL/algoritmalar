@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oldGoldenMirrorAlgorithm", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dinnerTimeAlgorithm", "dinnerTimeAlgorithm\dinnerTimeAlgorithm.csproj", "{3A2AD177-E4D1-49C2-BF4D-EF7907037C9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_dersleri", "oop_dersleri\oop_dersleri.csproj", "{2304AA8C-FD6F-424A-83B2-8EBF87D2D5C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{3A2AD177-E4D1-49C2-BF4D-EF7907037C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A2AD177-E4D1-49C2-BF4D-EF7907037C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A2AD177-E4D1-49C2-BF4D-EF7907037C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2304AA8C-FD6F-424A-83B2-8EBF87D2D5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2304AA8C-FD6F-424A-83B2-8EBF87D2D5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2304AA8C-FD6F-424A-83B2-8EBF87D2D5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2304AA8C-FD6F-424A-83B2-8EBF87D2D5C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
