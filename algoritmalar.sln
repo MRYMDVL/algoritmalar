@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dinnerTimeAlgorithm", "dinn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_dersleri", "oop_dersleri\oop_dersleri.csproj", "{2304AA8C-FD6F-424A-83B2-8EBF87D2D5C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarClass", "CarClass\CarClass.csproj", "{80A10C12-4241-4211-90E1-4033F0D1D0D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -191,6 +193,10 @@ Global
 		{3A2AD177-E4D1-49C2-BF4D-EF7907037C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A2AD177-E4D1-49C2-BF4D-EF7907037C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A2AD177-E4D1-49C2-BF4D-EF7907037C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A10C12-4241-4211-90E1-4033F0D1D0D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A10C12-4241-4211-90E1-4033F0D1D0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A10C12-4241-4211-90E1-4033F0D1D0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A10C12-4241-4211-90E1-4033F0D1D0D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
