@@ -63,9 +63,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oldGoldenMirrorAlgorithm", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dinnerTimeAlgorithm", "dinnerTimeAlgorithm\dinnerTimeAlgorithm.csproj", "{3A2AD177-E4D1-49C2-BF4D-EF7907037C9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "virtualpolymorphismdeneme", "virtualpolymorphismdeneme\virtualpolymorphismdeneme.csproj", "{97C0534A-9DA1-478F-8E8F-166C7D8EE5F7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassOfCar", "ClassOfCar\ClassOfCar.csproj", "{DA72EC34-BAC6-4250-811E-7D577D391D51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop_dersleri", "oop_dersleri\oop_dersleri.csproj", "{2304AA8C-FD6F-424A-83B2-8EBF87D2D5C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -193,14 +191,6 @@ Global
 		{3A2AD177-E4D1-49C2-BF4D-EF7907037C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A2AD177-E4D1-49C2-BF4D-EF7907037C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A2AD177-E4D1-49C2-BF4D-EF7907037C9A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{97C0534A-9DA1-478F-8E8F-166C7D8EE5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{97C0534A-9DA1-478F-8E8F-166C7D8EE5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{97C0534A-9DA1-478F-8E8F-166C7D8EE5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{97C0534A-9DA1-478F-8E8F-166C7D8EE5F7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DA72EC34-BAC6-4250-811E-7D577D391D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA72EC34-BAC6-4250-811E-7D577D391D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DA72EC34-BAC6-4250-811E-7D577D391D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DA72EC34-BAC6-4250-811E-7D577D391D51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
